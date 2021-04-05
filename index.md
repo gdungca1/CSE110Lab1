@@ -1,4 +1,4 @@
-![image](C:\Users\garre\Pictures\Profile.png)
+![image](Screenshots/"Vector From Despicable Me.jpg")
 # My Profile Page
 ## I'm Garrett
 ### Welcome
