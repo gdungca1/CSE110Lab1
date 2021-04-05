@@ -1,2 +1,2 @@
 # CSE110Lab1
-Garrett Dungca's User Page
+Python is God's greatest gift to man
