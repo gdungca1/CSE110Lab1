@@ -9,7 +9,7 @@ My favorite UNIX command is `rm -rf /`.
 
 [This](https://github.com/gdungca1/CSE110Lab1.git) is my Github page.
 
-[Random picture](Screenshots/gitscreen1.png)
+[Random picture](Screenshots/dababyconvertible.jpg)
 
 - Python
 - C++
