@@ -1,4 +1,4 @@
-![image](Screenshots/Vector From Despicable Me.jpg>)
+![image](<Screenshots/Vector From Despicable Me.jpg>)
 # My Profile Page
 ## I'm Garrett
 ### Welcome
